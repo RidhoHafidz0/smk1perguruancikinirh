@@ -38,7 +38,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: ##0066db;
+  color: #0066db;
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
 }
